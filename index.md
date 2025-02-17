@@ -1,5 +1,3 @@
-[![logo]([/imgs/logo.jpg](https://upload.wikimedia.org/wikipedia/commons/8/81/Logo_UniCT.png))]
-
 ### Welcome to Deep Learning Course 2024.
 ## [Syllabus]() 
 
